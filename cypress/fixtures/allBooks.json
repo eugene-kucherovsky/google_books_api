@@ -1,0 +1,1798 @@
+[
+  {
+    "kind": "books#volume",
+    "id": "TQItDwAAQBAJ",
+    "etag": "5eGoMv5NNwM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/TQItDwAAQBAJ",
+    "volumeInfo": {
+      "title": "The language dimension in all subjects",
+      "subtitle": "A handbook for curriculum development and teacher training",
+      "authors": [
+        "Jean-Claude Beacco",
+        "Mike Fleming",
+        "Francis Goullier",
+        "Eike Thürmann",
+        "Helmut Vollmer",
+        "Joseph Sheils"
+      ],
+      "publisher": "Council of Europe",
+      "publishedDate": "2016-10-24",
+      "description": "Mastering the language of schooling is essential for learners to develop the skills necessary for school success and for critical thinking. It is fundamental for participation in democratic societies, and for social inclusion and cohesion. This handbook is a policy and working document which promotes convergence and coherence between the linguistic dimensions of various school subjects. It proposes measures to make explicit – in curricula, pedagogic material and teacher training – the specific linguistic norms and competences which learners must master in each school subject. It also presents the learning modalities that should allow all learners, and in particular the most vulnerable among them, to benefit from diversified language-learning situations in order to develop their cognitive and linguistic capacities.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9789287183675" },
+        { "type": "ISBN_10", "identifier": "9287183678" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 146,
+      "printType": "BOOK",
+      "categories": ["Language Arts & Disciplines"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=TQItDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=TQItDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=TQItDwAAQBAJ&pg=PA99&dq=%27subject:%27all&hl=&cd=1&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=TQItDwAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TQItDwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": { "amount": 1402.73, "currencyCode": "RUB" },
+      "retailPrice": { "amount": 1402.73, "currencyCode": "RUB" },
+      "buyLink": "https://play.google.com/store/books/details?id=TQItDwAAQBAJ&rdid=book-TQItDwAAQBAJ&rdot=1&source=gbs_api",
+      "offers": [
+        {
+          "finskyOfferType": 1,
+          "listPrice": { "amountInMicros": 1402730000, "currencyCode": "RUB" },
+          "retailPrice": { "amountInMicros": 1402730000, "currencyCode": "RUB" }
+        }
+      ]
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": { "isAvailable": false },
+      "pdf": { "isAvailable": true },
+      "webReaderLink": "http://play.google.com/books/reader?id=TQItDwAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>subject</b> (religion) Using <b>subject</b>-specific terminology and explaining the meaning of technical terms by using ... <b>all</b> core curricula in the Hauptschule (and beyond) since 2012. Educational authorities have become much more aware of&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "l6dbAAAAQAAJ",
+    "etag": "7k/cSIZjCvk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/l6dbAAAAQAAJ",
+    "volumeInfo": {
+      "title": "The friendly address to all reasonable Americans, on the subject of our political confusions [by M. Cooper]. Abridged",
+      "authors": ["Myles Cooper"],
+      "publishedDate": "1774",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "OXFORD:590259197" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 24,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.3.5.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=l6dbAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=l6dbAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=l6dbAAAAQAAJ&pg=PA10&dq=%27subject:%27all&hl=&cd=2&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=l6dbAAAAQAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=l6dbAAAAQAAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=l6dbAAAAQAAJ&rdid=book-l6dbAAAAQAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.ru/books/download/The_friendly_address_to_all_reasonable_A.epub?id=l6dbAAAAQAAJ&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=l6dbAAAAQAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>all</b> of us , but a few Prefbyterians and Independents , in our hours of reflexion , if we have any , must despise and abhor . The hopes of <b>all</b> moderate and ... <b>Subjects</b> ! let me entreat you to 19 ( II ) to roufe up at laft from ( 10 )"
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "ZaVbAAAAQAAJ",
+    "etag": "602w0Ru3L4A",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ZaVbAAAAQAAJ",
+    "volumeInfo": {
+      "title": "A Friendly Address to All Reasonable Americans, on the Subject of Our Political Confusions",
+      "subtitle": "In which the Necessary Consequences of Violently Opposing the King's Troops, and of a General Non-importation, are Fairly Stated..",
+      "authors": ["Thomas Bradbury Chandler"],
+      "publishedDate": "1774",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "OXFORD:N11736603" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 56,
+      "printType": "BOOK",
+      "categories": ["Great Britain"],
+      "averageRating": 5,
+      "ratingsCount": 2,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.5.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=ZaVbAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ZaVbAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=ZaVbAAAAQAAJ&pg=PA21&dq=%27subject:%27all&hl=&cd=3&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=ZaVbAAAAQAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZaVbAAAAQAAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=ZaVbAAAAQAAJ&rdid=book-ZaVbAAAAQAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.ru/books/download/A_Friendly_Address_to_All_Reasonable_Ame.epub?id=ZaVbAAAAQAAJ&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "downloadLink": "http://books.google.ru/books/download/A_Friendly_Address_to_All_Reasonable_Ame.pdf?id=ZaVbAAAAQAAJ&hl=&output=pdf&sig=ACfU3U2cTRwvwaQLqGjgIglR-hKHlOb_RQ&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=ZaVbAAAAQAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>subjects</b> in his American dominions . Notwithstanding <b>all</b> that has been fuggested , and in fpite of <b>all</b> that can be faid , I am aware our political incendiaries will go on in their own way , and still contend , that these acts are&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "cPa6EAAAQBAJ",
+    "etag": "gHDIBi1FPis",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/cPa6EAAAQBAJ",
+    "volumeInfo": {
+      "title": "Oswaal Objective General English For All Competitive Examinations Chapter-wise & Topic-wise A Complete Book on English Language",
+      "authors": ["Oswaal Editorial Board"],
+      "publisher": "Oswaal Books",
+      "description": "Description of the product: ♦ Extensive Practice with 1000+ new questions based on 3 difficulty levels ♦ Valuable Exam Insights Topic-wise &amp; Exam-wise weightage analysis of questions ♦ Concept Clarity with Easy to Grasp theory complemented by Rules &amp; Solved examples. ♦ 100% Exam Readiness with previous years questions of different competitive examinations ♦ Learning Objectives: Outlines what aspirant should understand or be able to achieve after the course ♦ Expert Tips: Helps you get expert knowledge to master the English exam in your first attempt.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9789356345591" },
+        { "type": "ISBN_10", "identifier": "9356345597" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 347,
+      "printType": "BOOK",
+      "categories": ["Study Aids"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.0.1.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=cPa6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=cPa6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=cPa6EAAAQBAJ&pg=PA92&dq=%27subject:%27all&hl=&cd=4&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=cPa6EAAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cPa6EAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": { "amount": 439.43, "currencyCode": "RUB" },
+      "retailPrice": { "amount": 439.43, "currencyCode": "RUB" },
+      "buyLink": "https://play.google.com/store/books/details?id=cPa6EAAAQBAJ&rdid=book-cPa6EAAAQBAJ&rdot=1&source=gbs_api",
+      "offers": [
+        {
+          "finskyOfferType": 1,
+          "listPrice": { "amountInMicros": 439430000, "currencyCode": "RUB" },
+          "retailPrice": { "amountInMicros": 439430000, "currencyCode": "RUB" }
+        }
+      ]
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": { "isAvailable": false },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.ru/books/download/Oswaal_Objective_General_English_For_All-sample-pdf.acsm?id=cPa6EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=cPa6EAAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>subject</b> that comes first is preferred in choosing the verb . Since the <b>subject</b> is &#39; he &#39; , the verb will be &#39; is responsible &#39; . Hence , ( b ) has the error . 12. Plenty of mangoes and bananas are available in this season is the correct&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "HgUDAAAAQAAJ",
+    "etag": "DpQQ2fBYfA8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/HgUDAAAAQAAJ",
+    "volumeInfo": {
+      "title": "Sunny subjects for all seasons",
+      "authors": ["James Smith"],
+      "publishedDate": "1858",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "OXFORD:590919469" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 398,
+      "printType": "BOOK",
+      "categories": ["Christian life"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.4.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=HgUDAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=HgUDAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=HgUDAAAAQAAJ&pg=PA19&dq=%27subject:%27all&hl=&cd=5&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=HgUDAAAAQAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HgUDAAAAQAAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=HgUDAAAAQAAJ&rdid=book-HgUDAAAAQAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.ru/books/download/Sunny_subjects_for_all_seasons.epub?id=HgUDAAAAQAAJ&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "downloadLink": "http://books.google.ru/books/download/Sunny_subjects_for_all_seasons.pdf?id=HgUDAAAAQAAJ&hl=&output=pdf&sig=ACfU3U0X9UUhgUm4Pcxbi9Tzk4qxkPcYSA&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=HgUDAAAAQAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>subject</b> ; and yet , after Paul had dictated that most sublime and spiritual discourse on the resurrection ( 1 Cor . xv . ) , he at once turns to the <b>subject</b> of money , and says , &quot; Now concerning the collection for the saints : as I&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "e-3wJpHOf3QC",
+    "etag": "AM0Ppk7fruw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/e-3wJpHOf3QC",
+    "volumeInfo": {
+      "title": "His Majesties Declaration to All His Loving Subjects. Of August 12 1642",
+      "authors": [
+        "England and Wales. Sovereign (1625-1649 : Charles I)",
+        "Charles I (King of England)"
+      ],
+      "publishedDate": "1642",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "BL:A0022625130" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 94,
+      "printType": "BOOK",
+      "categories": ["Great Britain"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.3.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=e-3wJpHOf3QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=e-3wJpHOf3QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=e-3wJpHOf3QC&pg=PA17&dq=%27subject:%27all&hl=&cd=6&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=e-3wJpHOf3QC&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=e-3wJpHOf3QC"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=e-3wJpHOf3QC&rdid=book-e-3wJpHOf3QC&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.ru/books/download/His_Majesties_Declaration_to_All_His_Lov.epub?id=e-3wJpHOf3QC&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=e-3wJpHOf3QC&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>Subject</b> , absolutely rejected . Upon this enfu- ed a new and unheard of distemper in the Haule of Cominons , as if it had been great presumption in the House of Peers to refuse any Bill fent from them , and thereupon a wote palled in&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "SA2vEqLyV_0C",
+    "etag": "stbzqKDRZBg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/SA2vEqLyV_0C",
+    "volumeInfo": {
+      "title": "Supplement ... With an Alphabetical Index of Subjects in All the Volumes. [By J. G. Cogswell.]",
+      "authors": ["Astor Library (NEW YORK)"],
+      "publishedDate": "1866",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "BL:A0026433695" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 626,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.0.1.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=SA2vEqLyV_0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=SA2vEqLyV_0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=SA2vEqLyV_0C&pg=PP11&dq=%27subject:%27all&hl=&cd=7&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=SA2vEqLyV_0C&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SA2vEqLyV_0C"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=SA2vEqLyV_0C&rdid=book-SA2vEqLyV_0C&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.ru/books/download/Supplement_With_an_Alphabetical_Index_of.epub?id=SA2vEqLyV_0C&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=SA2vEqLyV_0C&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>every</b> miscellaneous work ; of <b>every</b> polygraphic writer ; of <b>every</b> scientific , historical , and literary collection ; of <b>all</b> the Transactions of learned societies , and of the public documents and state papers , as well as to whole&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "1312DwAAQBAJ",
+    "etag": "HNMUkSUFyoM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/1312DwAAQBAJ",
+    "volumeInfo": {
+      "title": "5 lb. Book of GRE Practice Problems",
+      "subtitle": "1,800+ Practice Problems in Book and Online",
+      "authors": ["Manhattan Prep"],
+      "publisher": "Simon and Schuster",
+      "publishedDate": "2018-12-04",
+      "description": "Manhattan Prep's best-selling 5 lb. Book of GRE Practice Problems has been updated to include an online companion of lessons from Interact® for GRE, our revolutionary interactive, on-demand learning platform. In addition, the book now includes new mixed timed sets, a cheat sheet of key math rules, and micro drills to test individual skills. The heart of the book is over 1,800 practice problems covering every topic tested on the GRE, making it an essential resource for students at any level. Developed by our expert instructors, the problems in this book are sensibly grouped into practice sets and mirror those found on the GRE in content, form, and style. Students can build fundamental skills in math and verbal through targeted practice while easy-to-follow explanations and step-by-step applications help cement their understanding of the concepts tested on the GRE. In addition, students can take their practice to the next level with learning modules from Interact® for GRE, our revolutionary interactive, on-demand learning platform.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9781506247601" },
+        { "type": "ISBN_10", "identifier": "1506247601" }
+      ],
+      "readingModes": { "text": true, "image": false },
+      "pageCount": 1038,
+      "printType": "BOOK",
+      "categories": ["Study Aids"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "2.6.7.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=1312DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=1312DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=1312DwAAQBAJ&pg=PA142&dq=%27subject:%27all&hl=&cd=8&source=gbs_api",
+      "infoLink": "http://books.google.ru/books?id=1312DwAAQBAJ&dq=%27subject:%27all&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/5_lb_Book_of_GRE_Practice_Problems.html?hl=&id=1312DwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.ru/books/download/5_lb_Book_of_GRE_Practice_Problems-sample-epub.acsm?id=1312DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=1312DwAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>everything</b> (“a cure-<b>all</b>”), they can “actually” make the problem worse: they could “strengthen bacterial strains,” which is a bad thing. The two best answer choices are “exacerbate” and “magnify.” “Ameliorate,” or make better, is the&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "G4R-NMcxipIC",
+    "etag": "s7TaE0hN3+4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/G4R-NMcxipIC",
+    "volumeInfo": {
+      "title": "The Family Encyclopaedia. A Complete Treasury of Useful Information on All Subjects Bearing Upon the Common Interests and Daily Wants of Mankind ...",
+      "authors": ["Encyclopaedias"],
+      "publishedDate": "1860",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "NLS:V000573218" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 372,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.0.1.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=G4R-NMcxipIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=G4R-NMcxipIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=G4R-NMcxipIC&pg=PA290&dq=%27subject:%27all&hl=&cd=9&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=G4R-NMcxipIC&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=G4R-NMcxipIC"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=G4R-NMcxipIC&rdid=book-G4R-NMcxipIC&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.ru/books/download/The_Family_Encyclopaedia_A_Complete_Trea.epub?id=G4R-NMcxipIC&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=G4R-NMcxipIC&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>all</b> together and pour it over the meat . Set the meat before the fire with a tin behind it , or put it in a Dutch ... <b>subject</b> , it may not be without its use to state , in accordance with our best legal authorities , that the character&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "DV5FDQAAQBAJ",
+    "etag": "axNYu9IW2Xg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/DV5FDQAAQBAJ",
+    "volumeInfo": {
+      "title": "Law School Survival Guide (Master Volume: All Subjects)",
+      "subtitle": "Outlines and Case Summaries for Torts, Civil Procedure, Property, Contracts & Sales, Evidence, Constitutional Law, Criminal Law, Constitutional Criminal Procedure",
+      "authors": ["J. Teller"],
+      "publisher": "TellerBooks",
+      "publishedDate": "2016-10-17",
+      "description": "Get the big picture with TellerBooks Law School Survival Guides--the DEFINITIVE study aid, with: - Concise overviews of the black letter law—ideal for class prep and exam mastery; - Over 600 case holdings, including all of the major cases that law students are expected to study; - A detailed glossary covering the most frequent terms that students will encounter; - Streamlined outlines highlighting the essentials; and - A thorough, concept-driven index for quick reference to key topics. Look for all of these titles in the TELLERBOOKS Law School Survival Guides Series (Outlines and Case Summaries)*: TORTS EVIDENCE PROPERTY FAMILY LAW CRIMINAL LAW CIVIL PROCEDURE INTERNATIONAL LAW CONSTITUTIONAL LAW CONTRACTS AND SALES BUSINESS ORGANIZATIONS CONST. CRIMINAL PROCEDURE *Available in paperback, e-book, Kindle edition, and iPhone application formats.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9781681090733" },
+        { "type": "ISBN_10", "identifier": "1681090732" }
+      ],
+      "readingModes": { "text": true, "image": true },
+      "pageCount": 622,
+      "printType": "BOOK",
+      "categories": ["Law"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.2.2.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=DV5FDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=DV5FDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=DV5FDQAAQBAJ&pg=PT844&dq=%27subject:%27all&hl=&cd=10&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=DV5FDQAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DV5FDQAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": { "amount": 3197.13, "currencyCode": "RUB" },
+      "retailPrice": { "amount": 3197.13, "currencyCode": "RUB" },
+      "buyLink": "https://play.google.com/store/books/details?id=DV5FDQAAQBAJ&rdid=book-DV5FDQAAQBAJ&rdot=1&source=gbs_api",
+      "offers": [
+        {
+          "finskyOfferType": 1,
+          "listPrice": { "amountInMicros": 3197130000, "currencyCode": "RUB" },
+          "retailPrice": { "amountInMicros": 3197130000, "currencyCode": "RUB" }
+        }
+      ]
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.ru/books/download/Law_School_Survival_Guide_Master_Volume-sample-epub.acsm?id=DV5FDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.ru/books/download/Law_School_Survival_Guide_Master_Volume-sample-pdf.acsm?id=DV5FDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=DV5FDQAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>every</b> document written while a <b>subject</b> is at work. To fall within the exception, the following elements must be met: i. The record or document must have been kept in the course of a business activity; ii. It must have been the regular&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "18ZOEAAAQBAJ",
+    "etag": "6bavCP7Iv+Y",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/18ZOEAAAQBAJ",
+    "volumeInfo": {
+      "title": "Educart CBSE Final Revision Book Term 1 For All Subjects Class 10 (Theory + MCQ Bank + Sample Paper) 2021",
+      "authors": ["Educart"],
+      "publisher": "Educart",
+      "publishedDate": "2021-11-16",
+      "description": "The Educart Term 1 Final Revision Book for Class 10 is the ultimate practice solution of all the major subjects - Science, Mathematics, Social Science, English, Hindi A and Hindi B. This book includes latest pattern OMR sheets, chapter-wise section maps of all Term 1 topics, detailed solutions of new pattern MCQs and 1 practice sample paper for each subject, giving you the perfect amount of revision for the upcoming board exams.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9789355610751" },
+        { "type": "ISBN_10", "identifier": "9355610750" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 268,
+      "printType": "BOOK",
+      "categories": ["Study Aids"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=18ZOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=18ZOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=18ZOEAAAQBAJ&pg=PA152&dq=%27subject:%27all&hl=&cd=11&source=gbs_api",
+      "infoLink": "http://books.google.ru/books?id=18ZOEAAAQBAJ&dq=%27subject:%27all&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Educart_CBSE_Final_Revision_Book_Term_1.html?hl=&id=18ZOEAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": { "isAvailable": false },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.ru/books/download/Educart_CBSE_Final_Revision_Book_Term_1-sample-pdf.acsm?id=18ZOEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=18ZOEAAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>Subject</b>-verb Agreement: This refers to the number of the <b>subject</b> (whom or what a sentence is about) and verb (what the <b>subject</b> is or does) (iv) Reported Speech: Direct and indirect speech, are used frequently, both in writing and in&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "-P1mAAAAcAAJ",
+    "etag": "k9ROh3vuLeQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/-P1mAAAAcAAJ",
+    "volumeInfo": {
+      "title": "His Majesties Declaration to all his loving subjects, December 26, 1662",
+      "authors": ["England"],
+      "publishedDate": "1663",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "BL:A0021015204" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 24,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.4.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=-P1mAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=-P1mAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=-P1mAAAAcAAJ&pg=PA14&dq=%27subject:%27all&hl=&cd=12&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=-P1mAAAAcAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-P1mAAAAcAAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=-P1mAAAAcAAJ&rdid=book--P1mAAAAcAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.ru/books/download/His_Majesties_Declaration_to_all_his_lov.epub?id=-P1mAAAAcAAJ&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=-P1mAAAAcAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>all</b> our <b>Subject&#39;s</b> finding ( us well as other Nations envying ) the advantage this bath of them in that prime foundation of Plenty , they may <b>all</b> with minds happily compofed by Our Clemency and Indulgence ( instead of taking up thoughts&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "y4t8CgAAQBAJ",
+    "etag": "ZPDvtmFgaWY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/y4t8CgAAQBAJ",
+    "volumeInfo": {
+      "title": "Lessons in Taxidermy - A Comprehensive Treatise on Collecting and Preserving All Subjects of Natural History -",
+      "authors": ["J. Elwood"],
+      "publisher": "Read Books Ltd",
+      "publishedDate": "2013-04-16",
+      "description": "This vintage book is a fascinating read for any amateur or professional taxidermist, providing a comprehensive guide to collecting and preserving taxidermy specimens. Advice is presented in five key lessons, and the book remains of great practical use for anyone interested in taxidermy today. Contents: Taxidermy; Lesson One - General Observation - Important - Read Carefully; Lesson Two - Collecting Specimens; Lesson Three - tools and Materials; Lesson Four - Skinning Birds; Lesson Five - Other Points to be Carefully Observed - Birds with Large Heads. We are republishing this classic work in a modern and affordable edition, featuring high quality reproductions of the original illustrations and a specially written new introduction.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9781447481799" },
+        { "type": "ISBN_10", "identifier": "1447481798" }
+      ],
+      "readingModes": { "text": true, "image": true },
+      "pageCount": 20,
+      "printType": "BOOK",
+      "categories": ["Crafts & Hobbies"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.2.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=y4t8CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=y4t8CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=y4t8CgAAQBAJ&pg=PP5&dq=%27subject:%27all&hl=&cd=13&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=y4t8CgAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=y4t8CgAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": { "amount": 400, "currencyCode": "RUB" },
+      "retailPrice": { "amount": 400, "currencyCode": "RUB" },
+      "buyLink": "https://play.google.com/store/books/details?id=y4t8CgAAQBAJ&rdid=book-y4t8CgAAQBAJ&rdot=1&source=gbs_api",
+      "offers": [
+        {
+          "finskyOfferType": 1,
+          "listPrice": { "amountInMicros": 400000000, "currencyCode": "RUB" },
+          "retailPrice": { "amountInMicros": 400000000, "currencyCode": "RUB" }
+        }
+      ]
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.ru/books/download/Lessons_in_Taxidermy_A_Comprehensive_Tre-sample-epub.acsm?id=y4t8CgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.ru/books/download/Lessons_in_Taxidermy_A_Comprehensive_Tre-sample-pdf.acsm?id=y4t8CgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=y4t8CgAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "J. Elwood. getting the essence of <b>all</b> that is known on the <b>subject</b>. You are getting the only system that has ever been an entire success, though many methods have been tried. It is the scientific method. Many of the details can be got by&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "EaGIEAAAQBAJ",
+    "etag": "r1pTyU1H8b0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/EaGIEAAAQBAJ",
+    "volumeInfo": {
+      "title": "General English For All Competitive Exams 2022 | 16 Topic-wise Solved Tests",
+      "authors": ["EduGorilla Prep Experts"],
+      "publisher": "EduGorilla",
+      "publishedDate": "2022-09-08",
+      "description": "• Best Selling Book in General English For All Competitive Exams 2022 with objective-type questions as per the latest syllabus.• Compare your performance with other students using Smart Answer Sheets in EduGorilla’s General English For All Competitive Exams 2022 Practice Kit.• General English For All Competitive Exams 2022 Preparation Kit comes with 16 Topic-wise Solved Tests with the best quality content.• Increase your chances of selection by 16X.• General English For All Competitive Exams 2022 Prep Kit comes with well-structured and 100% detailed solutions for all the questions.• Clear exam with good grades using thoroughly Researched Content by experts.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9789355564153" },
+        { "type": "ISBN_10", "identifier": "9355564155" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 270,
+      "printType": "BOOK",
+      "categories": ["Education"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.0.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=EaGIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=EaGIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=EaGIEAAAQBAJ&pg=PA14&dq=%27subject:%27all&hl=&cd=14&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=EaGIEAAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EaGIEAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": { "amount": 181.72, "currencyCode": "RUB" },
+      "retailPrice": { "amount": 181.72, "currencyCode": "RUB" },
+      "buyLink": "https://play.google.com/store/books/details?id=EaGIEAAAQBAJ&rdid=book-EaGIEAAAQBAJ&rdot=1&source=gbs_api",
+      "offers": [
+        {
+          "finskyOfferType": 1,
+          "listPrice": { "amountInMicros": 181720000, "currencyCode": "RUB" },
+          "retailPrice": { "amountInMicros": 181720000, "currencyCode": "RUB" }
+        }
+      ]
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": { "isAvailable": false },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.ru/books/download/General_English_For_All_Competitive_Exam-sample-pdf.acsm?id=EaGIEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=EaGIEAAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>subject</b>-verb agreement, a singular <b>subject</b> takes a singular verb and a plural <b>subject</b> takes a plural verb. •. Example: Ram goes to the temple <b>every</b> day. The phrase &#39;many a&#39; is singular and thus, it takes a singular verb, singular noun&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "6JlkAAAAcAAJ",
+    "etag": "QTdkLGadxRw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/6JlkAAAAcAAJ",
+    "volumeInfo": {
+      "title": "His Majesties Declaration to all His loving Subjects: published with the advice of His Privie Councell. In answer to the Remonstrance presented by the House of Commons, 1 Dec. 1641. B.L.",
+      "authors": ["England"],
+      "publishedDate": "1641",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "BL:A0020666535" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 8,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.1.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=6JlkAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=6JlkAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=6JlkAAAAcAAJ&pg=PA5&dq=%27subject:%27all&hl=&cd=15&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=6JlkAAAAcAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6JlkAAAAcAAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=6JlkAAAAcAAJ&rdid=book-6JlkAAAAcAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": { "isAvailable": false },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=6JlkAAAAcAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>Subjects</b> , if they fhal go about , by discountenancing the prefent Laws , to loofen the Bonds of Government , that <b>all</b> diforder &amp; confufion may break in upon Us , We doubt not but God in his good tinie will difcover them upto Us ; and&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "pwe0-Kv-2XEC",
+    "etag": "qSXTcGEP6fQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/pwe0-Kv-2XEC",
+    "volumeInfo": {
+      "title": "His Majesties Declaration to All His Loving Subjects Upon Occasion of the Ordinance and Declaration of the Lords and Commons, for Assessing All Such who Have Not Contributed Sufficiently for Raising Money, Plate,&c",
+      "authors": ["England and Wales. Sovereign (1625-1649 : Charles I)"],
+      "publishedDate": "1642",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "BL:A0022351019" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 8,
+      "printType": "BOOK",
+      "categories": ["Great Britain"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.0.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=pwe0-Kv-2XEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=pwe0-Kv-2XEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=pwe0-Kv-2XEC&pg=PP6&dq=%27subject:%27all&hl=&cd=16&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=pwe0-Kv-2XEC&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pwe0-Kv-2XEC"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=pwe0-Kv-2XEC&rdid=book-pwe0-Kv-2XEC&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": { "isAvailable": false },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=pwe0-Kv-2XEC&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>all</b> men fhould be immediatly bay . led in <b>all</b> Cafes bayleable , and during the fame Parliament that Alderman ... <b>Subjects</b> , and taken by anOrder of both Houfes , without and against Our confent . Laftly , that in the fame Parliament , a&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "Ap9GAQAAMAAJ",
+    "etag": "tZdMyoJH9EA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Ap9GAQAAMAAJ",
+    "volumeInfo": {
+      "title": "A Christian Caveat to All Loyal Subjects, Or, A Looking-glass Displaying the Foul Face of Phanaticism",
+      "subtitle": "In I. The Wicked Principles, II. Horrid Treasons, Cruelties, and Bloody Practices, III. Intollerable Pride, IV. Absurd Prayers and Devotions, V. Lying Miracles, VI. Filthy Impurities of Phanatical Sectarists",
+      "authors": ["A. P."],
+      "publishedDate": "1684",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "UIUC:30112085597539" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 38,
+      "printType": "BOOK",
+      "categories": ["Dissenters"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.4.5.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=Ap9GAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Ap9GAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=Ap9GAQAAMAAJ&pg=PA23&dq=%27subject:%27all&hl=&cd=17&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=Ap9GAQAAMAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ap9GAQAAMAAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=Ap9GAQAAMAAJ&rdid=book-Ap9GAQAAMAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.ru/books/download/A_Christian_Caveat_to_All_Loyal_Subjects.epub?id=Ap9GAQAAMAAJ&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=Ap9GAQAAMAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>all</b> Power into their hands , that if the infinite goodness of God had not detected their horrid Confpiracies againft King and Kingdom , <b>all</b> good <b>Subjects</b> , before now , had been Malfacred by fuch cruel , bloody - thirty Rebels , and the&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "IcdlAAAAcAAJ",
+    "etag": "RlMwH8VcMZc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/IcdlAAAAcAAJ",
+    "volumeInfo": {
+      "title": "His Majesties Declaration to all his subjects of his Kingdom of Scotland 9 Jan. 1643 upon occasion of a printed paper, entitled, The Declaration of the Kingdom of Scotland concerning the present Expedition into England, etc. With his Majesties Message to the Lords of his Privy-Councell of Scotland in December 1642, and the severall Papers presented to his Majesty by the Scotch Committee at Oxford in February last, with his Majesties severall answers thereunto",
+      "authors": ["Scotland"],
+      "publishedDate": "1643",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "BL:A0020740820" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 42,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.4.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=IcdlAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=IcdlAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=IcdlAAAAcAAJ&pg=PA30&dq=%27subject:%27all&hl=&cd=18&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=IcdlAAAAcAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IcdlAAAAcAAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=IcdlAAAAcAAJ&rdid=book-IcdlAAAAcAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.ru/books/download/His_Majesties_Declaration_to_all_his_sub.epub?id=IcdlAAAAcAAJ&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=IcdlAAAAcAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>all</b> occafions , which may tend to the difturbance thereof , have power by the act , betwixt the fitting of Parliaments , to meet amongst themselves , or with fuch as fhall be chofen by your Majefty and the Parliament of England , and to&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "pUtoAAAAcAAJ",
+    "etag": "CQ1aPPwRdag",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/pUtoAAAAcAAJ",
+    "volumeInfo": {
+      "title": "A Seasonable Caution to all Loyal Subjects against Antimonarchical Principles. In an answer to a pretended petition of the Common Hall ... assembled on Midsummer-Day last, to the ... House of Commons; which is designed for a vindication of the Common Hall, as innocent of the affront ... thereby offered, etc. [With the paper in question.]",
+      "authors": ["City of London (England). Corporation. Livery Committee"],
+      "publishedDate": "1690",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "BL:A0021322167" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 6,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.1.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=pUtoAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=pUtoAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=pUtoAAAAcAAJ&pg=PA2&dq=%27subject:%27all&hl=&cd=19&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=pUtoAAAAcAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pUtoAAAAcAAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=pUtoAAAAcAAJ&rdid=book-pUtoAAAAcAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": { "isAvailable": false },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=pUtoAAAAcAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>all</b> to humble our felves under the mighty hand of God , both for our Hypocrifie and Profanenefs . And that we may ... <b>Subjects</b> , and good Citizens ; fo as no longer to envy , defpife , and rail at , or profecute each other , but to love&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "AZpcAAAAcAAJ",
+    "etag": "kcyx9UKJUf0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/AZpcAAAAcAAJ",
+    "volumeInfo": {
+      "title": "The Companion Letter Writer. A Complete Guide to Correspondence on All Subjects Relating to Friendship, Love, and Business ... By One of the Compilers of the Enquire Within Series",
+      "publishedDate": "1866",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "BL:A0018714484" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 206,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.4.5.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=AZpcAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=AZpcAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=AZpcAAAAcAAJ&pg=PT4&dq=%27subject:%27all&hl=&cd=20&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=AZpcAAAAcAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AZpcAAAAcAAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=AZpcAAAAcAAJ&rdid=book-AZpcAAAAcAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.ru/books/download/The_Companion_Letter_Writer_A_Complete_G.epub?id=AZpcAAAAcAAJ&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=AZpcAAAAcAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>all</b> parts of the country , which , during the last eighteen years , has been given in his paper , &quot; The Weekly ... <b>all</b> kinds of Farms is described in monthly succession , as step by step it occupies the attention of the Farmer throughout&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "LrP7DAAAQBAJ",
+    "etag": "PwiamtJXYsk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/LrP7DAAAQBAJ",
+    "volumeInfo": {
+      "title": "Lessons In Taxidermy - A Comprehensive Treatise On Collecting And Preserving All Subjects Of Natural History -",
+      "authors": ["J. Elwood"],
+      "publisher": "Read Books Ltd",
+      "publishedDate": "2016-08-26",
+      "description": "This fascinating book is the second part of a series of books which provides a detailed and easy to follow guide to collecting and preserving a wide range of animals. This part concentrates on birds, and includes the chapters: 'How to Mount Birds—General Observations'; 'Tools and Materials'; 'Making the Artificial Body'; 'The Wires Required'; 'Constructing the Body'; 'Making the Neck'; 'Introducing the Leg Wires'; 'Placing the Artificial Body in the Skin'; 'Sewing Up the Incision'; et cetera. The perfect handbook for taxidermists interested in the collection and preservation of birds, this book is a must-have addition to any taxidermic collection. This text has been elected for modern republication due to its educational value, and is proudly republished here complete with a new introduction to the subject.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9781473352285" },
+        { "type": "ISBN_10", "identifier": "1473352282" }
+      ],
+      "readingModes": { "text": true, "image": true },
+      "pageCount": 26,
+      "printType": "BOOK",
+      "categories": ["Crafts & Hobbies"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=LrP7DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=LrP7DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=LrP7DAAAQBAJ&pg=PA37&dq=%27subject:%27all&hl=&cd=21&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=LrP7DAAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LrP7DAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": { "amount": 400, "currencyCode": "RUB" },
+      "retailPrice": { "amount": 400, "currencyCode": "RUB" },
+      "buyLink": "https://play.google.com/store/books/details?id=LrP7DAAAQBAJ&rdid=book-LrP7DAAAQBAJ&rdot=1&source=gbs_api",
+      "offers": [
+        {
+          "finskyOfferType": 1,
+          "listPrice": { "amountInMicros": 400000000, "currencyCode": "RUB" },
+          "retailPrice": { "amountInMicros": 400000000, "currencyCode": "RUB" }
+        }
+      ]
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.ru/books/download/Lessons_In_Taxidermy_A_Comprehensive_Tre-sample-epub.acsm?id=LrP7DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.ru/books/download/Lessons_In_Taxidermy_A_Comprehensive_Tre-sample-pdf.acsm?id=LrP7DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=LrP7DAAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>every</b> sentence, for one purpose always kept in view in preparing these lessons is to make them as brief as possible and yet clear on <b>all</b> points. Most beginners should not attempt skins that have become dry. Be prepared to mount the&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "pWlaAAAAcAAJ",
+    "etag": "v7RsAu+q0QI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/pWlaAAAAcAAJ",
+    "volumeInfo": {
+      "title": "Arithmetic and Algebra, combining ... those subjects, in a compendious form, with ... all the Senate-House Examination Papers that have been proposed within the last six years, to candidates for the ... B.A. degree",
+      "authors": ["ARITHMETIC."],
+      "publishedDate": "1835",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "BL:A0018173305" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 360,
+      "printType": "BOOK",
+      "categories": ["Algebra"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.3.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=pWlaAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=pWlaAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=pWlaAAAAcAAJ&pg=PA232&dq=%27subject:%27all&hl=&cd=22&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=pWlaAAAAcAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pWlaAAAAcAAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=pWlaAAAAcAAJ&rdid=book-pWlaAAAAcAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.ru/books/download/Arithmetic_and_Algebra_combining_those_s.epub?id=pWlaAAAAcAAJ&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=pWlaAAAAcAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>all</b> possible ways . 179. By changing the sign of <b>every</b> alternate term of the above series , beginning with the ... <b>all</b> the even combinations of n things ; and the coefficients of the even terms express the sum of <b>all</b> the odd combinations&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "g-pbAAAAQAAJ",
+    "etag": "1Qvn8ZI9IuI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/g-pbAAAAQAAJ",
+    "volumeInfo": {
+      "title": "A declaration ... in answer to his majesties declaration to all his ... subjects, after his late victory against the rebels ... 23 Oct., 1642",
+      "authors": ["Parliament proc, Ch. i"],
+      "publishedDate": "1642",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "OXFORD:590760611" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 16,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.4.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=g-pbAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=g-pbAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=g-pbAAAAQAAJ&pg=PP10&dq=%27subject:%27all&hl=&cd=23&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=g-pbAAAAQAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=g-pbAAAAQAAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=g-pbAAAAQAAJ&rdid=book-g-pbAAAAQAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.ru/books/download/A_declaration_in_answer_to_his_majesties.epub?id=g-pbAAAAQAAJ&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "downloadLink": "http://books.google.ru/books/download/A_declaration_in_answer_to_his_majesties.pdf?id=g-pbAAAAQAAJ&hl=&output=pdf&sig=ACfU3U3Q4BFTCI3dn4ifhIG9-dtUxpH_fQ&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=g-pbAAAAQAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>Subjects</b> fhould raife an Army to purfue thofe Robbers , and by Battell difpof effe them of him , and refcue him from their Power and Tyranny : That therefore this was an Army railed to murder and deftroy the King . And we cannot but&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "binCEAAAQBAJ",
+    "etag": "meP4oU5cVok",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/binCEAAAQBAJ",
+    "volumeInfo": {
+      "title": "Oswaal Objective Quantitative Aptitude For All Competitive Examinations Chapter-wise & Topic-wise A Complete Book",
+      "authors": ["Oswaal Editorial Board"],
+      "publisher": "Oswaal Books and Learning Private Limited",
+      "publishedDate": "2023-06-01",
+      "description": "Benefits of the product: • Crisp Revision: Concepts Review &amp; Mind Maps offer bite-sized and just-in-time revision tools. • Extensive Practice with 2000+ Previous Years questions based on 3 difficulty levels • Valuable Exam Insights Exam-wise weightage analysis of questions • Concept Clarity Easy to Grasp theory complemented by Solved examples. • 100% Exam Readiness with fully solved previous years questions of different competitive examinations • Learning Objectives: Outlines what aspirant should understand or be able to achieve after the course • Expert Tips: Helps you get expert knowledge to master the Quantitative Aptitude in your first attempt.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9789357281287" },
+        { "type": "ISBN_10", "identifier": "9357281282" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 427,
+      "printType": "BOOK",
+      "categories": ["Study Aids"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.0.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=binCEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=binCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=binCEAAAQBAJ&pg=PA396&dq=%27subject:%27all&hl=&cd=24&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=binCEAAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=binCEAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": { "amount": 769.83, "currencyCode": "RUB" },
+      "retailPrice": { "amount": 769.83, "currencyCode": "RUB" },
+      "buyLink": "https://play.google.com/store/books/details?id=binCEAAAQBAJ&rdid=book-binCEAAAQBAJ&rdot=1&source=gbs_api",
+      "offers": [
+        {
+          "finskyOfferType": 1,
+          "listPrice": { "amountInMicros": 769830000, "currencyCode": "RUB" },
+          "retailPrice": { "amountInMicros": 769830000, "currencyCode": "RUB" }
+        }
+      ]
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": { "isAvailable": false },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.ru/books/download/Oswaal_Objective_Quantitative_Aptitude_F-sample-pdf.acsm?id=binCEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=binCEAAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>subjects</b> from chemistry , mathematics and physics . The number of students choosing <b>all</b> three <b>subjects</b> is 18 , choosing mathematics as one of their <b>subjects</b> is 23 and choosing physics as one of their <b>subjects</b> is 25 . The smallest&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "xUIYAAAAYAAJ",
+    "etag": "PuXqgS8PO9M",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/xUIYAAAAYAAJ",
+    "volumeInfo": {
+      "title": "Subject Reports",
+      "subtitle": "low income",
+      "authors": ["United States. Bureau of the Census"],
+      "publishedDate": "1973",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "UVA:X030348603" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 518,
+      "printType": "BOOK",
+      "categories": ["Poor"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "2.8.4.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=xUIYAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=xUIYAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=xUIYAAAAYAAJ&q=%27subject:%27all&dq=%27subject:%27all&hl=&cd=25&source=gbs_api",
+      "infoLink": "http://books.google.ru/books?id=xUIYAAAAYAAJ&dq=%27subject:%27all&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Subject_Reports.html?hl=&id=xUIYAAAAYAAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": { "isAvailable": false },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=xUIYAAAAYAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>subject</b> is shown for some or <b>all</b> of the following areas: States, counties (by urban, rural-nonfarm, and rural-farm residence), SMSA&#39;s, urbanized areas, and places of 2,500 inhabitants or more. The results of the 1970 Census of&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "9HEhAQAAMAAJ",
+    "etag": "zvy8jA9AsqY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/9HEhAQAAMAAJ",
+    "volumeInfo": {
+      "title": "Clinical Linguistics & Phonetics",
+      "publishedDate": "1995",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "IND:30000046650747" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 396,
+      "printType": "BOOK",
+      "categories": ["Applied linguistics"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.1.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=9HEhAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=9HEhAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=9HEhAQAAMAAJ&q=%27subject:%27all&dq=%27subject:%27all&hl=&cd=26&source=gbs_api",
+      "infoLink": "http://books.google.ru/books?id=9HEhAQAAMAAJ&dq=%27subject:%27all&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Clinical_Linguistics_Phonetics.html?hl=&id=9HEhAQAAMAAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": { "isAvailable": false },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=9HEhAQAAMAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Inter-judge measurement reliability was assessed for VOT measures for the six <b>subjects</b>. A random sample of 7-9% of <b>all</b> target productions was selected from each analysed probe for <b>every subject</b>. This resulted in a total of 154 tokens&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "qFFqatmb6ZUC",
+    "etag": "+kb/odtgs8A",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/qFFqatmb6ZUC",
+    "volumeInfo": {
+      "title": "Manual of Military Law",
+      "subtitle": "1929",
+      "authors": ["Great Britain. War Office"],
+      "publishedDate": "1940",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "MINN:31951002345546J" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 1006,
+      "printType": "BOOK",
+      "categories": ["Military law"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.4.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=qFFqatmb6ZUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=qFFqatmb6ZUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=qFFqatmb6ZUC&pg=PA580&dq=%27subject:%27all&hl=&cd=27&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=qFFqatmb6ZUC&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qFFqatmb6ZUC"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=qFFqatmb6ZUC&rdid=book-qFFqatmb6ZUC&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.ru/books/download/Manual_of_Military_Law.epub?id=qFFqatmb6ZUC&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=qFFqatmb6ZUC&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>subject</b> to this qualification , that where such person is a native of India he shall be <b>subject</b> to Indian military ... <b>all</b> times , and if not holding such a com- mission when he is ordered on any duty or service for which , as such&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "ioVJAQAAIAAJ",
+    "etag": "yAT+tzbrXgs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ioVJAQAAIAAJ",
+    "volumeInfo": {
+      "title": "Linguistic Inquiry",
+      "publishedDate": "1976",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "UCAL:B5157015" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 784,
+      "printType": "BOOK",
+      "categories": ["Electronic journals"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.6.3.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=ioVJAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ioVJAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=ioVJAQAAIAAJ&q=%27subject:%27all&dq=%27subject:%27all&hl=&cd=28&source=gbs_api",
+      "infoLink": "http://books.google.ru/books?id=ioVJAQAAIAAJ&dq=%27subject:%27all&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Linguistic_Inquiry.html?hl=&id=ioVJAQAAIAAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": { "isAvailable": false },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=ioVJAQAAIAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>subject</b> of the VP complement; therefore, the quantifier cannot move into the VP. <b>All</b> is X, and the position between to and attend is Y. In (26), Y = a = VP: (26) &quot;Jack promised the girls <b>all</b> to attend the party. Recall that VP is&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "sMJrT9xGxNcC",
+    "etag": "TH8NK28DwFs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/sMJrT9xGxNcC",
+    "volumeInfo": {
+      "title": "The Network Security Center",
+      "subtitle": "A System Level Approach to Computer Network Security",
+      "authors": ["Frank Heinrich"],
+      "publishedDate": "1977",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "OSU:32435004761375" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 78,
+      "printType": "BOOK",
+      "categories": ["Computer security"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.3.4.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=sMJrT9xGxNcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=sMJrT9xGxNcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=sMJrT9xGxNcC&pg=PA33&dq=%27subject:%27all&hl=&cd=29&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=sMJrT9xGxNcC&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sMJrT9xGxNcC"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=sMJrT9xGxNcC&rdid=book-sMJrT9xGxNcC&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.ru/books/download/The_Network_Security_Center.epub?id=sMJrT9xGxNcC&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=sMJrT9xGxNcC&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>all</b> the tuples which have the same value for the <b>subject</b> ( or the object ) can be stored together . The common value need only be explicitly represented once for <b>all</b> the tuples which have this common value . Thus , when factoring one&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "pjFrAAAAMAAJ",
+    "etag": "/BVGnTXLn2M",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/pjFrAAAAMAAJ",
+    "volumeInfo": {
+      "title": "Protecting Human Subjects",
+      "subtitle": "A Situational Approach",
+      "authors": ["Rhonda Shelley Besunder"],
+      "publishedDate": "1981",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "UOM:39015004411107" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 292,
+      "printType": "BOOK",
+      "categories": ["Human experimentation in medicine"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.1.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=pjFrAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=pjFrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.ru/books?id=pjFrAAAAMAAJ&q=%27subject:%27all&dq=%27subject:%27all&hl=&cd=30&source=gbs_api",
+      "infoLink": "http://books.google.ru/books?id=pjFrAAAAMAAJ&dq=%27subject:%27all&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Protecting_Human_Subjects.html?hl=&id=pjFrAAAAMAAJ"
+    },
+    "saleInfo": {
+      "country": "RU",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "RU",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": { "isAvailable": false },
+      "pdf": { "isAvailable": false },
+      "webReaderLink": "http://play.google.com/books/reader?id=pjFrAAAAMAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... <b>Subjects</b> Source: 46 FR 8386, January 26, 1981 § 46.101 To what do these regulations apply? (a) Except as provided in paragraph (b) of this section, this subpart applies to <b>all</b> research involving human <b>subjects</b> conducted by the&nbsp;..."
+    }
+  }
+]

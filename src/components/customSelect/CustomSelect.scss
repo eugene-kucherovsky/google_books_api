@@ -1,0 +1,93 @@
+@import "src/variables";
+
+.custom-select {
+  position: relative;
+  @include flex(column, center, center);
+  color: #fff;
+  font-size: 1.25rem;
+  border-radius: 0.4rem;
+  user-select: none;
+  box-shadow: 0rem 0.5rem 0.7rem 0rem #00000066;
+
+  .custom-select__select {
+    @include flex(row, space-between, center);
+    width: 10rem;
+    min-height: 2.2rem;
+    padding: 0.2rem 0.8rem;
+    cursor: pointer;
+    background-color: #a3a3a3;
+    border-radius: 0.4rem;
+    opacity: 90%;
+  }
+
+  .custom-select__dropdown-menu {
+    position: absolute;
+    top: 110%;
+    @include flex(column, center, start);
+    gap: 0.1rem;
+    width: 10rem;
+    padding: 0.2rem;
+    list-style: none;
+    background-color: #a3a3a3;
+    border-radius: 0.4rem;
+    opacity: 90%;
+    z-index: 3;
+
+    .option {
+      width: 100%;
+      min-height: 2.2rem;
+      cursor: pointer;
+      padding: 0.1rem 0.6rem;
+      border-radius: 0.3rem;
+    }
+  }
+
+  .custom-select__svg {
+    @include flex(row, center, center);
+    color: #fff;
+
+    .svg-chevron-down-opened {
+      width: 1.4rem;
+      height: 1.4rem;
+      transform: rotate(180deg);
+      animation: rotate-chevron-up 0.3s ease;
+    }
+
+    @keyframes rotate-chevron-up {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(-180deg);
+      }
+    }
+
+    .svg-chevron-down-closed {
+      width: 1.4rem;
+      height: 1.4rem;
+      transform: rotate(0deg);
+      animation: rotate-chevron-down 0.3s ease;
+    }
+
+    @keyframes rotate-chevron-down {
+      from {
+        transform: rotate(-180deg);
+      }
+      to {
+        transform: rotate(0deg);
+      }
+    }
+  }
+}
+
+@media (min-width: 80rem) {
+  .custom-select__select:hover {
+    background-color: #737373;
+    transition: all 0.4s ease-out;
+  }
+
+  .option:hover {
+    background-color: #737373;
+    transition: all 0.6s ease-in-out;
+  }
+}

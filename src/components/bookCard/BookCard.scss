@@ -1,0 +1,51 @@
+@import "src/variables";
+
+.book-card {
+  @include flex(column, space-between, center);
+  min-width: 15rem;
+  max-width: 18rem;
+  padding-top: 1rem;
+  color: #000;
+  background-color: #fff;
+  border-radius: 0.4rem;
+  box-shadow: #00000066 0.6rem 0.5rem 0.7rem 0rem;
+
+  .book-card__link-img {
+    .book-card-image {
+      display: block;
+      max-width: 14rem;
+      height: 14rem;
+      object-fit: cover;
+    }
+  }
+
+  .book-card__content {
+    @include flex(column, space-between, center);
+    gap: 0.4rem;
+    min-height: 10rem;
+    padding: 0.4rem;
+
+    .book-card-title {
+      font-size: 1rem;
+      font-weight: 600;
+    }
+
+    .book-card-cat {
+      padding: 0.1rem 0.8rem;
+      font-size: 1rem;
+      background-color: #b5fce3;
+      border-radius: 1rem;
+    }
+
+    .book-card-auth {
+      font-size: 0.85rem;
+    }
+  }
+}
+
+@media (min-width: 80rem) {
+  .book-card:hover {
+    transform: scale(101%);
+    transition: 0.4s ease-out;
+  }
+}

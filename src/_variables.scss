@@ -1,0 +1,16 @@
+$font-main: "Noto Sans";
+$shadow-sm: #00000066 0rem 0.5rem 0.7rem 0rem;
+$shadow-md: #00000066 0.6rem 0.5rem 0.7rem 0rem;
+
+@mixin flex($dir, $jc, $ai) {
+  display: flex;
+  flex-direction: $dir;
+  justify-content: $jc;
+  align-items: $ai;
+}
+
+@mixin font($ff, $fs, $fw) {
+  font-family: $ff;
+  font-size: $fs;
+  font-weight: $fw;
+}

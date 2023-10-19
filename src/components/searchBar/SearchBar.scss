@@ -1,0 +1,123 @@
+@import "src/variables";
+
+.search-bar-wrapper {
+  @include flex(column, center, center);
+  padding: 3rem 0rem 0.4rem 0rem;
+  background-image: url("../../assets/sb-background.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  .search-form {
+    position: relative;
+    @include flex(row, center, center);
+
+    .search-form__input {
+      width: 33rem;
+      min-height: 2.2rem;
+      padding: 0 2.6rem 0 0.4rem;
+      font-size: 1.3rem;
+      box-shadow: $shadow-sm;
+      border: 2px solid;
+      border-color: #a3a3a3;
+      border-radius: 0.4rem;
+    }
+
+    .search-form__input:focus {
+      outline: none;
+    }
+
+    .search-form__btn-submit {
+      all: unset;
+      position: absolute;
+      right: 2%;
+      top: 10%;
+      cursor: pointer;
+
+      .svg-btn-submit {
+        width: 1.8rem;
+        height: 1.8rem;
+        color: #a3a3a3;
+      }
+    }
+  }
+
+  .search-selects {
+    @include flex(row, center, center);
+    width: 100%;
+    gap: 1.3rem;
+    margin: 1rem 0rem;
+
+    .search-selects__select {
+      @include flex(row, center, center);
+
+      .select-title {
+        color: #fff;
+        font-size: 1.2rem;
+        margin-right: 1rem;
+        user-select: none;
+        pointer-events: none;
+      }
+    }
+  }
+
+  .founded {
+    color: #fff;
+    font-size: 1.2rem;
+    text-align: center;
+    user-select: none;
+    pointer-events: none;
+  }
+}
+
+@media (min-width: 80rem) {
+  .search-form {
+    .search-form__btn-submit {
+      .svg-btn-submit:hover {
+        color: #737373;
+      }
+    }
+  }
+}
+
+@media (max-width: 32.5rem) and (min-width: 20.01rem) {
+  .search-bar-wrapper {
+    padding: 1.6rem 2rem 0rem 2rem;
+    .search-form {
+      .search-form__input {
+        width: 18rem;
+        font-size: 1rem;
+      }
+    }
+    .search-selects {
+      @include flex(column, space-between, start);
+      gap: 1rem;
+
+      .search-selects__select {
+        @include flex(row, space-between, center);
+        width: 100%;
+      }
+    }
+  }
+}
+
+@media (max-width: 20rem) {
+  .search-bar-wrapper {
+    padding: 1.6rem 2rem 0rem 2rem;
+    .search-form {
+      .search-form__input {
+        width: 16.3rem;
+        font-size: 1rem;
+      }
+    }
+    .search-selects {
+      @include flex(column, space-between, start);
+      gap: 1rem;
+
+      .search-selects__select {
+        @include flex(row, space-between, center);
+        width: 100%;
+      }
+    }
+  }
+}

@@ -1,0 +1,123 @@
+@import "src/variables";
+
+.home-wrapper {
+  position: relative;
+  @include flex(column, center, center);
+  margin: 0 auto;
+
+  .home-wrapper__api-error-message {
+    text-align: center;
+    color: #ff0000;
+    margin-top: 0.8rem;
+  }
+
+  .home-wrapper__container {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    grid-column-start: 1;
+    grid-column-end: 5;
+    gap: 1.2rem;
+    padding: 1.2rem;
+  }
+
+  .home-wrapper__buttons {
+    @include flex(row, space-between, center);
+    width: 100%;
+    margin-right: 2rem;
+
+    .btn-load-more {
+      all: unset;
+      cursor: pointer;
+      display: block;
+      margin: 1.2rem auto;
+      padding: 0.6rem 1rem;
+      border-radius: 0.4rem;
+      box-shadow: $shadow-sm;
+      background-color: #fff;
+      color: #404040;
+      transition: 0.4s;
+    }
+
+    .btn-scroll-top {
+      all: unset;
+      position: fixed;
+      bottom: 1%;
+      right: 1.4%;
+      width: 2.8rem;
+      height: 2.8rem;
+      cursor: pointer;
+      border-radius: 50%;
+      background-color: #fff;
+      text-align: center;
+      box-shadow: $shadow-sm;
+      transition: 0.4s;
+
+      .btn-scroll-top__svg {
+        width: 1.8rem;
+        height: 1.8rem;
+        color: #404040;
+      }
+    }
+  }
+}
+
+@media (min-width: 80rem) {
+  .home-wrapper__buttons {
+    .btn-load-more:hover {
+      background-color: #e5e5e5;
+      color: #000;
+    }
+
+    .btn-scroll-top:hover {
+      background-color: #e5e5e5;
+      color: #000;
+    }
+  }
+}
+
+// all breakpoints are set according to the size of the cards
+@media (max-width: 82.5rem) and (min-width: 66.251rem) {
+  .home-wrapper {
+    max-width: 82.5rem;
+    .home-wrapper__container {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      grid-column-start: 1;
+      grid-column-end: 4;
+      max-width: 82.5rem;
+    }
+  }
+}
+
+@media (max-width: 66.25rem) and (min-width: 51.251rem) {
+  .home-wrapper {
+    max-width: 66.25rem;
+    .home-wrapper__container {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      grid-column-start: 1;
+      grid-column-end: 3;
+      max-width: 66.25rem;
+    }
+  }
+}
+
+@media (max-width: 51.25rem) and (min-width: 35.01rem) {
+  .home-wrapper {
+    max-width: 35rem;
+    .home-wrapper__container {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      grid-column-start: 1;
+      grid-column-end: 2;
+      max-width: 35rem;
+    }
+  }
+}
+
+@media (max-width: 35rem) {
+  .home-wrapper {
+    max-width: 20rem;
+    .home-wrapper__container {
+      grid-template-columns: repeat(1, minmax(0, 1fr));
+      max-width: 20rem;
+    }
+  }
+}
