@@ -90,7 +90,7 @@ describe("<Home /> page", () => {
       );
 
       // books.json - default has 30 elements
-      expect((await screen.findAllByTestId("book-card")).length).toBe(30);
+      expect((await screen.findAllByTestId("book-card")).length).toBe(40);
 
       const loadMoreButton = screen.getByTestId("btn-load-more");
       expect(loadMoreButton).toBeInTheDocument();

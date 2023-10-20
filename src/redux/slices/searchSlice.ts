@@ -79,7 +79,7 @@ export type Item = {
 export const fetchSearch = createAsyncThunk(
   "search/fetchSearch",
   async ({ query, category, orderBy, startIndex }: SearchOptions) => {
-    const URL = `${API_URL}/books/v1/volumes?q=${query}+'subject:'${category}&startIndex=${startIndex}&orderBy=${orderBy}&maxResults=30&key=${API_KEY}`;
+    const URL = `${API_URL}/books/v1/volumes?q=${query}+'subject:'${category}&startIndex=${startIndex}&orderBy=${orderBy}&maxResults=40&key=${API_KEY}`;
     const response = await fetch(URL, {
       method: "GET",
       headers: {
@@ -140,7 +140,7 @@ const searchSlice = createSlice({
       state.searchOptions.orderBy = action.payload;
     },
     changeStartIndex(state) {
-      state.searchOptions.startIndex += 30;
+      state.searchOptions.startIndex += 40;
     },
     clearStartIndex(state) {
       state.searchOptions.startIndex = 0;
@@ -157,20 +157,22 @@ const searchSlice = createSlice({
         state.error = null;
 
         const filterByUniqueId = (array: Item[]) => {
-          const result = array.reduce((acc: Item[], item: Item) => {
-            if (acc.find(({ id }: { id: string }) => item.id === id)) {
-              return acc;
-            }
-            return [...acc, item];
-          }, []);
-          return result;
+          let unique = [
+            ...new Map(array.map((item) => [item["id"], item])).values(),
+          ].sort((a, b) => {
+            return a.volumeInfo.title.localeCompare(b.volumeInfo.title);
+          });
+
+          return unique;
         };
 
         if (state.searchOptions.startIndex === 0) {
           state.items = filterByUniqueId(action.payload.items);
           state.totalItems = action.payload.totalItems;
         } else {
-          state.items = filterByUniqueId(state.items.concat(action.payload.items));
+          state.items = filterByUniqueId(
+            state.items.concat(action.payload.items)
+          );
         }
       })
       .addCase(fetchSearch.rejected, (state, action) => {

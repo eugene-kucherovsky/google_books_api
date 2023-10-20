@@ -36,6 +36,7 @@ export default function SearchBar() {
   function submitHandler(event: FormEvent) {
     event.preventDefault();
     navigate("/");
+    dispatch(clearStartIndex());
     dispatch(fetchSearch(searchOptions));
   }
 
@@ -95,7 +96,6 @@ export default function SearchBar() {
         <div className="search-selects__select">
           <p className="select-title">categories</p>
           <CustomSelect
-            // data-testid="select-categories"
             mode="cells"
             options={availableCategories}
             selected={searchOptions.category || null}
@@ -106,7 +106,6 @@ export default function SearchBar() {
         <div className="search-selects__select">
           <p className="select-title">sort by</p>
           <CustomSelect
-            // data-testid="select-sorting"
             mode="cells"
             options={availableOrders}
             selected={searchOptions.orderBy || null}

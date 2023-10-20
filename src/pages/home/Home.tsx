@@ -10,7 +10,7 @@ export default function Home() {
     (state) => state.search
   );
 
-  console.log(items);
+  // console.log(items);
 
   function loadMore() {
     dispatch(changeStartIndex());
@@ -38,7 +38,7 @@ export default function Home() {
 
       <div className="home-wrapper__container">
         {items
-          ? items.map((item, index) => <BookCard key={index} {...item} />)
+          ? items.map((item) => <BookCard key={item.id} {...item} />)
           : null}
       </div>
 

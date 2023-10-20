@@ -109,7 +109,7 @@ describe("tests for searchSlice", () => {
   });
 
   test("changeStartIndex reducer", () => {
-    const testValue = 30;
+    const testValue = 40;
 
     const afterReducerOperation = searchSlice(initialState, changeStartIndex());
 
