@@ -33,30 +33,30 @@ export default function SearchBar() {
     }
   }, [debouncedSearch]);
 
-  function submitHandler(event: FormEvent) {
+  const submitHandler = (event: FormEvent) => {
     event.preventDefault();
     navigate("/");
     dispatch(clearStartIndex());
     dispatch(fetchSearch(searchOptions));
-  }
+  };
 
-  function searchHandler(event: ChangeEvent<HTMLInputElement>) {
+  const searchHandler = (event: ChangeEvent<HTMLInputElement>) => {
     navigate("/");
     dispatch(clearStartIndex());
     dispatch(changeSearchValue(event.target.value));
-  }
+  };
 
-  function categoriesHandler(value: string) {
+  const categoriesHandler = (value: string) => {
     navigate("/");
     dispatch(clearStartIndex());
     dispatch(changeCategory(value));
-  }
+  };
 
-  function sortHandler(value: string) {
+  const sortHandler = (value: string) => {
     navigate("/");
     dispatch(clearStartIndex());
     dispatch(changeSort(value));
-  }
+  };
 
   return (
     <div className="search-bar-wrapper">
@@ -64,7 +64,7 @@ export default function SearchBar() {
         <input
           className="search-form__input"
           data-testid="search-input"
-          onChange={(event) => searchHandler(event)}
+          onChange={searchHandler}
           type="text"
           name="serch"
           placeholder="Поиск книг..."

@@ -12,17 +12,17 @@ export default function Home() {
 
   // console.log(items);
 
-  function loadMore() {
+  const loadMore = () => {
     dispatch(changeStartIndex());
     dispatch(fetchSearch(searchOptions));
-  }
+  };
 
-  function scrollToTop() {
+  const scrollToTop = () => {
     window.scrollTo({
       top: 0,
       behavior: "smooth",
     });
-  }
+  };
 
   return (
     <div className="home-wrapper">
@@ -47,14 +47,14 @@ export default function Home() {
           <button
             className="btn-load-more"
             data-testid="btn-load-more"
-            onClick={() => loadMore()}
+            onClick={loadMore}
           >
             Показать больше
           </button>
           <button
             className="btn-scroll-top"
             data-testid="btn-scroll-top"
-            onClick={() => scrollToTop()}
+            onClick={scrollToTop}
           >
             <svg
               className="btn-scroll-top__svg"

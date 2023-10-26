@@ -18,20 +18,20 @@ export default function Book() {
     }
   }, []);
 
-  function addImg() {
+  const addImg = () => {
     if (item?.volumeInfo?.imageLinks?.thumbnail) {
       return item?.volumeInfo?.imageLinks?.thumbnail;
     } else {
       return emptyPhoto;
     }
-  }
+  };
 
-  function BookDescription(description: string) {
+  const BookDescription = (description: string) => {
     const cleanDescription = DOMPurify.sanitize(description, {
       ALLOWED_TAGS: [],
     });
     return <textarea readOnly value={cleanDescription}></textarea>;
-  }
+  };
 
   return (
     <div className="book-wrapper">
@@ -63,13 +63,17 @@ export default function Book() {
           </div>
           <div className="book-info__text">
             {item.volumeInfo?.categories && (
-              <p className="book-cat">{item.volumeInfo?.categories?.join("/")}</p>
+              <p className="book-cat">
+                {item.volumeInfo?.categories?.join("/")}
+              </p>
             )}
             {item.volumeInfo?.title && (
               <p className="book-title">{item.volumeInfo?.title}</p>
             )}
             {item.volumeInfo?.authors && (
-              <p className="book-auth">{item.volumeInfo?.authors?.join(", ")}</p>
+              <p className="book-auth">
+                {item.volumeInfo?.authors?.join(", ")}
+              </p>
             )}
             {item.volumeInfo?.description &&
               BookDescription(item.volumeInfo?.description)}
